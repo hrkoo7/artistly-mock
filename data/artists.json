@@ -1,0 +1,6 @@
+[
+  {"id":1,"name":"Ella Fitzgerald","category":"Singer","price":"$500–$1,000","location":"NYC","image":"/images/placeholder.jpg"},
+  {"id":2,"name":"Martha Graham","category":"Dancer","price":"$800–$1,500","location":"LA","image":"/images/placeholder.jpg"},
+  {"id":3,"name":"Elon Speaker","category":"Speaker","price":"$2,000–$5,000","location":"SF","image":"/images/placeholder.jpg"},
+  {"id":4,"name":"DJ Acoustic","category":"DJ","price":"$300–$700","location":"Chicago","image":"/images/placeholder.jpg"}
+]
